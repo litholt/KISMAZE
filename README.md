@@ -1,4 +1,5 @@
-#KISMAZE(2024) 
+KISMAZE - January 2024.
+
 Kismaze  Share Fun, Enjoyable, and Interesting Videos.
 
 Welcome to KISMAZE, the new video sharing platform with an avant-garde design to bring joy and inspiration to your daily life. Whether you're looking for hilarious moments, fascinating discoveries, or inspiring content, KISMAZE is the perfect place to explore, share, and entertain yourself.
